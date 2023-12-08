@@ -1,4 +1,4 @@
-# <AA-ECOMM-BACKEND>
+# AA-ECOMM-BACKEND
 
 ## Description
 
